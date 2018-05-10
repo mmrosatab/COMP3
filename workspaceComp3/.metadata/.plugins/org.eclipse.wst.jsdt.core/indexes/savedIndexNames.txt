@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/mmrosa/MEGA/MEGAsync/Faculdade/2018-1/COMP3/workspaceComp3/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1344218729.index
+2774028675.index
+653619476.index
+261658454.index
+998117964.index
+1494209208.index
