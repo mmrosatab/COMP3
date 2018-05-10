@@ -11,7 +11,7 @@
 		<h1>Cadastro</h1>
 		<%out.print("Preencha os campos abaixo.");%>
 		
-		<form action="receberDados.jsp">
+		<form action="colDadosCliente.jsp">
 			
 			<br>
 			Nome: <br>
